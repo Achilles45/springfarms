@@ -8,7 +8,7 @@
                  </div>
                  <div class="navbar__contents">
                      <ul class="navbar__items d-flex justify-content-between">
-                         <li><router-link to="/" class="nav-links">About</router-link></li>
+                         <li><router-link to="/about" class="nav-links">About</router-link></li>
                          <li><router-link to="/" class="nav-links">Farmers</router-link></li>
                          <li><router-link to="/" class="nav-links">Farmshop</router-link></li>
                          <li><router-link to="/" class="nav-links">Consultancy</router-link></li>
