@@ -1,0 +1,23 @@
+.products{
+    background: $deepgreen;
+    color: #fff;
+    padding: 7rem 0;
+    h3{
+        font-weight: bold;
+    }
+    p{
+            font-size: .9375rem;
+            font-weight: 300;
+            line-height: 1.7;
+            margin-top: 1.65rem;
+            word-spacing: .3rem;
+            margin-bottom: 2rem;
+    }
+    .product-btn{
+        background: $lightgreen;
+        color: #fff;
+        padding: .9rem 2rem;
+        text-decoration: none;
+        border-radius: 2px;
+    }
+}

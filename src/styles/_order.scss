@@ -1,0 +1,25 @@
+.order{
+    padding: 5rem 0;
+   .order-text{
+       margin-top: 2rem;
+       h4{
+           font-weight: bold;
+           color: $deepgreen;
+       }
+       p{
+        font-size: .9375rem;
+        font-weight: 300;
+        color: #656565;
+        line-height: 1.7;
+        margin-bottom: 3rem;
+        margin-top: 1rem;
+       }
+       .order-btn{
+        background: $lightgreen;
+        color: #fff;
+        padding: .9rem 2rem;
+        text-decoration: none;
+        border-radius: 2px;
+       }
+   }
+}
