@@ -82,7 +82,7 @@ export default {
                     margin-left: 1rem;
                     text-decoration: none;
                     font-size: .899rem;
-                    font-weight: bold;
+                    // font-weight: bold;
                 }
             }
              .contact-link{
@@ -139,7 +139,7 @@ export default {
         flex-direction: column;
         padding: 4rem 2rem;
         top: 20%;
-        right: -100%;
+        right: 100%;
         border-radius: 4px;
         transition: all ease-in-out .5s;
         z-index: 2;
