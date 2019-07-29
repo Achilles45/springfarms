@@ -83,10 +83,6 @@ export default {
                     text-decoration: none;
                     font-size: .899rem;
                     // font-weight: bold;
-<<<<<<< HEAD
-                    letter-spacing: 1px;
-=======
->>>>>>> designs
                 }
             }
              .contact-link{
