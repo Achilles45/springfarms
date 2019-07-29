@@ -13,7 +13,7 @@
                     <h6><i class="fa fa-envelope"></i>&nbsp; Email Address</h6>
                     <p>support@springfarms</p>
                     <h6><i class="fa fa-phone"></i>&nbsp; Call or WhatsApp</h6>
-                    <p>+234 8103 515 205</p>
+                    <p>09060245065</p>
                     
                 </div>
                 <div class="col-md-4">
