@@ -34,8 +34,8 @@
                   <h6>Extension services</h6>
                   <p>Our expert field agents are always available to provide our farmers with modern and effective extension services.</p>
                 </div>
-                <div class="col-md-4 about-icons">
-                  <i class="fa fa-cubes"></i>
+                <div class="col-md-4">
+                  <i class="fa fa-cubes about-icons"></i>
                       <h6>Improved inputs</h6>
                       <p>Our partner farmers are able to access improved inputs ranging from seedlings to insecticides at a very subsidized rate.</p>
                 </div>
