@@ -36,7 +36,7 @@
         <div class="col-md-9">
           <h3>Do you plan to establish a modern farm?</h3>
           <p>With over 20 years of experience along the agricultural value chain, we are abe to ideate, plan and execute agro-allied projects of all sizes. It does not matter if it in tree/crops, animal husbandary, fisheries, agro-processing, our team of expert is able to execute beyound expectation. We follow best pratices in all our project execution and we give attention to details. We consider everything from seed quality to spacing to make sure we satisfy all your need.</p>
-          <a href="tel:08103515205" class="product-btn">Contact Us</a>
+          <a href="tel:090245065" class="product-btn">Contact Us</a>
         </div>
         <div class="col-md-3">
         </div>
@@ -56,7 +56,7 @@
          <div class="col-md-6 order-text">
           <h4>Order your palm products today!</h4>
           <p>Our primary products invloves all the products from the palm. From Crude Palm Oil to Palm Karnel, we can deliver to you in any part of Nigeria. We source the product from our partner farmers. Our quality is top notch and pricing is affordable.</p>
-           <a href="tel:08103515205" class="order-btn">Order Now</a>
+           <a href="tel:090245065" class="order-btn">Order Now</a>
         </div>
       </div>
     </div>
