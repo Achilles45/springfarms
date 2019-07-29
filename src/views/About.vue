@@ -24,17 +24,17 @@
             <div class="col-12">
               <h4>What we can do for farmers</h4>
               <div class="row mt-3 mb-3">
-                <div class="col-md-4">
+                <div class="col-md-4 farmers">
                   <i class="fa fa-users about-icons"></i>
                   <h6>Connection to markets</h6>
                   <p>Our B2B feature helps to link our partner farmers to markets that are competitive in pricing.</p>
                 </div>
-                <div class="col-md-4">
+                <div class="col-md-4 farmers">
                   <i class="fa fa-eye about-icons"></i>
                   <h6>Extension services</h6>
                   <p>Our expert field agents are always available to provide our farmers with modern and effective extension services.</p>
                 </div>
-                <div class="col-md-4">
+                <div class="col-md-4 farmers">
                   <i class="fa fa-cubes about-icons"></i>
                       <h6>Improved inputs</h6>
                       <p>Our partner farmers are able to access improved inputs ranging from seedlings to insecticides at a very subsidized rate.</p>
