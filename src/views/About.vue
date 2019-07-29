@@ -36,7 +36,7 @@
                 </div>
                 <div class="col-md-4">
                   <i class="fa fa-cubes about-icons"></i>
-                    <h6>Improved inputs</h6>
+                      <h6>Improved inputs</h6>
                       <p>Our partner farmers are able to access improved inputs ranging from seedlings to insecticides at a very subsidized rate.</p>
                 </div>
               </div>
