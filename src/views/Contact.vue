@@ -17,7 +17,7 @@
                                <h6>Springfarms Headquarters</h6>
                                <p>By MTN mast, Ejemeh, Aniocha South LGA, Delta State, Nigeria.</p>
                                <h6>Phone</h6>
-                               <p>+2349 0245 065</p>
+                               <p>09060245065</p>
                            </div>
                              <div class="col-md-6">
                                  <div v-if="error" class="alert alert-danger">
