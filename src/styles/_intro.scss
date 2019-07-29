@@ -38,13 +38,6 @@
                 color: #656565;
                 line-height: 1.6;
             }
-            &:hover{
-                background: $lightgreen;
-                transition: all ease-in-out .5s;
-                h6, p{
-                    color: #fff !important;
-                }
-            }
         }
     }
 }
