@@ -1,0 +1,54 @@
+.contact__wrapper{
+    width: 100%;
+    background: #FFF;
+    .contact__heading{
+        background: linear-gradient(rgba(0, 0, 0, .7), rgba(0, 0, 0, .7)), url('./assets/farmer2.jpg');
+        background-repeat: no-repeat;
+        background-size: cover;
+        width: 100%;
+        color: #fff;
+        padding: 3rem 0;
+    }
+    .contact-details{
+        margin-top: 6rem;
+        margin-bottom: 5rem;
+        h5{
+            font-size: 2rem;
+            color: #333;
+            margin-bottom: 1.5rem;
+        }
+        h6{
+            padding-top: 2rem;
+            font-weight: 300
+        }
+        p{
+            font-size: .9rem;
+        }
+        form{
+            font-family: 'Montserrat';
+            input[type=text], input[type=email]{
+                box-shadow: none;
+                height: 2.8rem;
+                border-radius: 2px;
+                border: 1px solid #f4f4f4;
+                &:active{
+                    border: 1px solid #f2f2f2;
+                }
+            }
+            textarea{
+                box-shadow: none;
+                height: 7rem;
+                border-radius: 2px;
+                border: 1px solid #f2f2f2;
+            }
+            .form-btn{
+                background: $lightgreen;
+                padding: .7rem 3rem;
+                text-align: center;
+                color: #fff;
+                border: none;
+                outline: none;
+            }
+        }
+    }
+}

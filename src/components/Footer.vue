@@ -9,7 +9,11 @@
                 <div class="col-md-4">
                     <h5>Contact Details</h5>
                     <h6><i class="fa fa-home"></i>&nbsp; Head Office</h6>
+<<<<<<< HEAD
                     <p>By MTN mast, Ejemeh, Aniocha South LGA, Delta State, Nigeria</p>
+=======
+                    <p>By MTN mast, Ejemeh, Aniocha South LGA, Delta State, Nigeria.</p>
+>>>>>>> designs
                     <h6><i class="fa fa-envelope"></i>&nbsp; Email Address</h6>
                     <p>support@springfarms</p>
                     <h6><i class="fa fa-phone"></i>&nbsp; Call or WhatsApp</h6>
