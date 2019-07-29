@@ -27,7 +27,7 @@
                 <div class="row">
                     <div class="col-md-7">
                        <h2>Connecting farmers to markets</h2>
-                       <p>A lot of farm produce go to waste due to a number of reasons including lack of a strucutred market. We partner with smallholder farmers to connect them to markets...</p>
+                       <p>A lot of farm produce go to waste due to a number of reasons including lack of a strucutred market. We partner with smallholder farmers to connect them to markets and provide them with other essentails to enhance productivity</p>
                        <router-link to="/about" class="hero-btn">Read More</router-link>
                     </div>
                     <div class="col-md-5">
@@ -82,13 +82,14 @@ export default {
                     margin-left: 1rem;
                     text-decoration: none;
                     font-size: .899rem;
-                    font-weight: bold;
+                    // font-weight: bold;
+                    letter-spacing: 1px;
                 }
             }
              .contact-link{
                     background: transparent;
                     border: 1px solid #FFF;
-                    padding: .6rem 2rem;
+                    padding: .8rem 2.3rem;
                     border-radius: 2px;
                     &:hover{
                         background: $lightgreen;
@@ -115,8 +116,8 @@ export default {
     }
     p{
         opacity: .7;
-        line-height: 1.2;
-        margin-bottom: 2rem;
+        line-height: 1.4;
+        margin-bottom: 2.3rem;
         font-family: 'Montserrat' !important;
         font-size: .899rem;
     }
@@ -124,7 +125,7 @@ export default {
         background: $lightgreen;
         color: #fff;
         text-decoration: none;
-        padding: .9rem 2.5rem;
+        padding: 1rem 2.5rem;
         text-align: center;
         border-radius: 2px;
         font-size: .899rem;
